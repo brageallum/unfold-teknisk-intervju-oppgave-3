@@ -13,7 +13,7 @@ export default function Home() {
         className="relative w-96 h-96 rounded overflow-hidden mb-10 shadow-xl object-cover"
         layoutId="lost-in-tokyo-image"
         transition={{ type: "spring", bounce: 0.25, duration: 0.35 }}
-        src="https://images.unsplash.com/photo-1554797589-7241bb691973?q=80&w=3247&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        src="./lost-in-tokyo.avif"
         alt="Cover image. Shows a bustling narrow alley at night, illuminated by the warm glow of paper lanterns with Japanese characters. A couple of people can be seen in the distance, walking by small traditional shops and restaurants adorned with hanging decorations and flowers, creating an intimate and inviting atmosphere."
       ></motion.img>
       <h1 className="font-bold text-5xl mb-8">Lost in Tokyo</h1>
